@@ -20,10 +20,3 @@ RIAI is a complete, modern, responsive web application for aspiring entrepreneur
 4. **Wishlist for Saving Schemes**: Interactive scheme saving, wishlist management, search, state filtering, and zero-duplicate state persistence.
 5. **Scheme Explorer & Profile Engine**: Master database of verified Central and State schemes (PMEGP, NEEDS, PMFME, MUDRA, Startup India Seed Fund, PM Vishwakarma) with multi-parameter filtering and preset profile loader.
 6. **RIAI AI Assistant**: Multilingual AI chatbot (English, Tamil, Hindi, Telugu, Kannada) providing scheme guidance and rule explanations.
-
-## 🛠️ How to Run
-
-```bash
-npm start
-```
-Then open `http://localhost:3000` in your web browser.
