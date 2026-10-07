@@ -4,11 +4,9 @@
 
 ---
 
-### 🌐 Live Website / One-Click Link
+### 🌐 Live Website
 
-[![Live Website](https://img.shields.io/badge/🌐_Live_Demo-Click_Here_to_Open_Website-fbbf24?style=for-the-badge&logoColor=black)](https://ria-scheme-navigator.surge.sh)
-
-🔗 **Direct Web Link:** [https://ria-scheme-navigator.surge.sh](https://ria-scheme-navigator.surge.sh)
+https://abinaya-127.github.io/RIAI-Scheme-Navigator/
 
 ---
 
