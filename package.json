@@ -1,0 +1,20 @@
+{
+  "name": "ria-scheme-navigator",
+  "version": "1.0.0",
+  "description": "RIAI — Government Scheme Navigator for Entrepreneurs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "deploy": "surge --project ."
+  },
+  "keywords": [
+    "riai",
+    "government-schemes",
+    "government-schemes",
+    "entrepreneurs",
+    "ai",
+    "india"
+  ],
+  "author": "RIA Team",
+  "license": "MIT"
+}
